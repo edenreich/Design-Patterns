@@ -14,7 +14,7 @@ export class EventDispatcher implements IEventDispatcher
         this.events[event].push(callback);
     }    
 
-    dispatch(event: string, payload: any): void 
+    dispatch(event: string, payload?: any): void 
     {
         if (this.events.hasOwnProperty(event) === false) {
             return console.warn('no listeners on this event!');
