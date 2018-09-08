@@ -3,7 +3,6 @@ import { Sunroof } from './accessories/Sunroof';
 import { LeatherSeats } from './accessories/LeatherSeats';
 import { NavigationSystem } from './accessories/NavigationSystem';
 
-
 let teslaModelS: TeslaModelS = new TeslaModelS;
 
 teslaModelS = new Sunroof(teslaModelS);
