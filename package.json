@@ -6,7 +6,8 @@
   "scripts": {
     "decorator": "ts-node --compiler typescript ./decorator/Index.ts",
     "pubsub": "ts-node --compiler typescript ./pubsub/Index.ts",
-    "facade": "ts-node --compiler typescript ./facade/Index.ts"
+    "facade": "ts-node --compiler typescript ./facade/Index.ts",
+    "adapter": "ts-node --compiler typescript ./adapter/Index.ts"
   },
   "keywords": [
     "Design",
