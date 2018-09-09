@@ -1,4 +1,4 @@
-import { TeslaModelS } from './TeslaModelS';
+import { TeslaModelS } from './cars/TeslaModelS';
 import { Sunroof } from './accessories/Sunroof';
 import { LeatherSeats } from './accessories/LeatherSeats';
 import { NavigationSystem } from './accessories/NavigationSystem';
