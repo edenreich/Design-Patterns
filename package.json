@@ -1,7 +1,7 @@
 {
   "name": "design-patterns",
   "version": "1.0.0",
-  "description": "A list various design patterns written in TypeScript",
+  "description": "A list of various design patterns written in TypeScript",
   "main": "index.js",
   "scripts": {
     "decorator": "ts-node --compiler typescript ./decorator/Index.ts",
