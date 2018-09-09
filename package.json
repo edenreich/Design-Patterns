@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "decorator": "ts-node --compiler typescript ./decorator/Index.ts",
-    "pubsub": "ts-node --compiler typescript ./pubsub/Index.ts"
+    "pubsub": "ts-node --compiler typescript ./pubsub/Index.ts",
+    "facade": "ts-node --compiler typescript ./facade/Index.ts"
   },
   "keywords": [
     "Design",
